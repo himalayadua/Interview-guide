@@ -150,6 +150,9 @@ key points:
     - you are comfortable working independently and aren't risk-averse
     - you have the presence of mind to make important decisions even when the situation is not optimal.
 
+> Tell me about an event when you employed simple and quick strategies and were able to get rid of a major hurdle that was keeping your team from moving ahead. 
+>> How did you manage to break through the hindrance? 
+>> What was the end result?
 
 > Give me an example of a calculated risk that you have taken where speed was critical.
 
