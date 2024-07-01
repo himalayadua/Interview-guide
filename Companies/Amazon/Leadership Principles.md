@@ -15,6 +15,10 @@
 13. Have Backbone; Disagree and Commit
 14. Deliver Results
 
+(On Jul 1, 2021, Amazon introduced two new Leadership Principles)
+15. Strive to be Earth's Best Employer
+16. Success and Scale Bring Broad Responsibility
+
 ## Customer Obsession
 key points:
 - start with the customer and work backwards
@@ -26,3 +30,12 @@ key points:
 - When did you fail to satisfy a customer's needs, and how did you correct the situation?
 
 > "Tell me about an occasion when you used customer input to enhance or innovate your organization."
+
+> Tell me about a time when you strongly disagreed with your manager or peer on something you considered very important to the business.
+
+> To try to meet the high expectations of our customers, we sometimes promise more than we can deliver. Tell me about a time when you overcommitted yourself or your company.
+
+## Invent and Simplify
+key points:
+- 
+
