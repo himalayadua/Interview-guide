@@ -64,7 +64,10 @@ key points:
 
 ## Learn (Be Curious)
 key points:
-- 
+- always seek to improve yourself
+- What worked yesterday may not work for long
+- strong emphasis on everyone being open to learning new things
+- `Amazon values individuals who are open and eager to learn`
 
 ## Hire and Develop the Best
 
