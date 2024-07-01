@@ -36,6 +36,14 @@ key points:
 
 > To try to meet the high expectations of our customers, we sometimes promise more than we can deliver. Tell me about a time when you overcommitted yourself or your company.
 
+## Ownership
+key points:
+- 
+
+> Describe a time when you took on work outside of your comfort area.
+
+> Describe a situation where you made an important business decision without consulting your manager.
+
 ## Invent and Simplify
 key points:
 - be externally aware, look for new ideas from everywhere.
@@ -62,6 +70,10 @@ key points:
 
 > "Give me an example of a time when a member of your team pushed you to consider a problem in a fresh light. What was the outcome?"
 
+> Tell me about a time when you did not effectively manage your projects and something did not get completed on time.
+
+> Tell me about a time you wouldn't compromise on achieving a great outcome when others felt something was good enough.
+
 ## Learn (Be Curious)
 key points:
 - always seek to improve yourself
@@ -75,24 +87,80 @@ key points:
 - Think of times when you discovered something new and shared it with your team
     - introducing a new way of doing things
 
+> Give me an example of a mission or goal you didn't think was achievable. 
+
+> Give me an example of something that you've worked on to improve your overall work effectiveness.
+
 ## Hire and Develop the Best
+key points:
+- they don't hire who do not add value to the company
+- emphasize the value you bring to the table
+- you must always be ready to share your expertise and mentor fellow employees
+- Give an example of an employee who you helped grow professionally. 
+- If you don't have managerial experience
+    - you can talk about how your supported members of your team and helped them develop.
+
+> Tell me about a time when you received negative feedback.
+
+> Describe a time when you improved morale and productivity on your team.
 
 ## Insist on the Highest Standards
+key points:
+- 
+
+> Tell me about a time when you had to work with a difficult customer or user.
+
+> Tell me about a time when you used external trends to improve your own company's products or services.
 
 ## Think Big
+key points:
+- 
+
+> Give an example of a creative idea you had that proved really difficult to implement.
+
+> Tell me about a time when you encouraged a team member or organization to take a big risk.
 
 ## Act Rapidly (Bias for Action)
+key points:
+- 
 
 ## Frugality (Use Your Resources Wisely)
+key points:
+- 
 
 ## Earn Trust
+key points:
+- 
 
 ## Dive Deep
+key points:
+- 
+
+> Tell me about a time when you had to communicate a change in direction that you anticipated people would have concerns with.
+
+> Tell me about a time where you were thrown into a project where you had no experience in.
 
 ## Have a Backbone; Disagree and Commit
+key points:
+- 
+
+> Often, we must make decisions as a group. Give me an example of a time you committed to a group decision even though you disagreed.
+
+> Tell me about a time where you disagreed with a coworker or PM or manager because you believed the decision they wanted to make was wrong for the customer.
 
 ## Deliver Results
+key points:
+- 
+
+> Could you tell me about a time where you were working on a project where you were working with another person.    
+>> Over time, that person lessened their involvement in the project and you had to take on more responsibility.
+
+> Tell me about a strategic decision you had to make without clear data or benchmarks.
 
 ## Strive to be Earth's Best Employer
+key points:
+- 
 
 ## Success and Scale Bring Broad Responsibility
+key points:
+- 
