@@ -53,9 +53,17 @@ key points:
 key points:
 - have strong judgment and good instincts
 - seek diverse perspectives and work to disconfirm their beliefs
-- 
+- you are expected to have excellent decision making abilities
+- `Amazon sees disagreement as valuable`
+- find examples of times 
+    - in which you chose a good way forward from a number of conflicting options.
+- Was there a time where you adopted a successful idea despite it not being in line with the one you had? 
+
+> "Give me an example of a time when a member of your team pushed you to consider a problem in a fresh light. What was the outcome?"
 
 ## Learn (Be Curious)
+key points:
+- 
 
 ## Hire and Develop the Best
 
