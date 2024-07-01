@@ -37,5 +37,17 @@ key points:
 
 ## Invent and Simplify
 key points:
-- 
+- be externally aware, look for new ideas from everywhere.
+- Part of this means being brave 
+- changing the way things are traditionally done can often be misunderstood 
+- Think of times in your professional past 
+    - where you disrupted the status quo
+- When did you find a way of simplifying a process, or made one more efficient and quicker? 
+- Can you give an example of an idea you had that didn't work out, and what you managed to learn from it regardless?
+
+> Tell me about a time when you didn't meet customer's needs.
+
+> Give me an example of a complex problem you solved with a simple solution.
+
+## 
 
