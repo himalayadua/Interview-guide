@@ -136,9 +136,20 @@ key points:
 
 > Tell me about a time when you encouraged a team member or organization to take a big risk.
 
+
 ## Act Rapidly (Bias for Action)
 key points:
-- 
+- Many decisions and actions are reversible and do not need extensive study
+- Amazon value calculated risk taking
+- Think of a time where you had to 
+    - make a quick judgement call with limited information and no time to consult a superior. 
+    - What guided your decision? 
+    - What was your thought process? 
+    - What did you learn, even if the results were disappointing? 
+- convey to your interviewer that 
+    - you are comfortable working independently and aren't risk-averse
+    - you have the presence of mind to make important decisions even when the situation is not optimal.
+
 
 > Give me an example of a calculated risk that you have taken where speed was critical.
 
