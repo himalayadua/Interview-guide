@@ -50,6 +50,10 @@ key points:
 > Give me an example of a complex problem you solved with a simple solution.
 
 ## Good Judgement
+key points:
+- have strong judgment and good instincts
+- seek diverse perspectives and work to disconfirm their beliefs
+- 
 
 ## Learn (Be Curious)
 
