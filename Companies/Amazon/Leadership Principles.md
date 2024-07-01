@@ -120,9 +120,17 @@ key points:
 
 > Tell me about a time when you used external trends to improve your own company's products or services.
 
+
 ## Think Big
 key points:
+- create and communicate a bold direction that inspires results
+- you are expected to look at the bigger picture and not be content with simply getting your job done
+- Give an example of a time you thought big, what you did to pursue this idea, and how it influenced performance
 - 
+
+> Tell me about a time when you took a risky direction that didn't work out. 
+>> What have you concluded and learnt? 
+>> What would you change if you could go back in time?
 
 > Give an example of a creative idea you had that proved really difficult to implement.
 
