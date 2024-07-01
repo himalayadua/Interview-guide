@@ -49,5 +49,28 @@ key points:
 
 > Give me an example of a complex problem you solved with a simple solution.
 
-## 
+## Good Judgement
 
+## Learn (Be Curious)
+
+## Hire and Develop the Best
+
+## Insist on the Highest Standards
+
+## Think Big
+
+## Act Rapidly (Bias for Action)
+
+## Frugality (Use Your Resources Wisely)
+
+## Earn Trust
+
+## Dive Deep
+
+## Have a Backbone; Disagree and Commit
+
+## Deliver Results
+
+## Strive to be Earth's Best Employer
+
+## Success and Scale Bring Broad Responsibility
