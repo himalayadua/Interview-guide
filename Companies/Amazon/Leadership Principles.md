@@ -160,7 +160,12 @@ key points:
 
 ## Frugality (Use Your Resources Wisely)
 key points:
-- 
+- Accomplish more with less
+- Constraints breed resourcefulness
+- Amazon believe that many times limited resources produce the most creative ideas
+- think about times 
+    - where you had to make a limited budget last
+    - so think of occasions where you were self sufficient and exercised frugality in your professional past
 
 > Tell me about a time you pushed back on a deadline.
 
