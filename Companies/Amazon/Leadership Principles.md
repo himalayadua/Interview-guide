@@ -126,7 +126,7 @@ key points:
 - create and communicate a bold direction that inspires results
 - you are expected to look at the bigger picture and not be content with simply getting your job done
 - Give an example of a time you thought big, what you did to pursue this idea, and how it influenced performance
-- 
+- chances are you will be asked about `your failures as well as your success stories`
 
 > Tell me about a time when you took a risky direction that didn't work out. 
 >> What have you concluded and learnt? 
