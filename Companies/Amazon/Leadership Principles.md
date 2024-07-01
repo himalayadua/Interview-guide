@@ -68,6 +68,12 @@ key points:
 - What worked yesterday may not work for long
 - strong emphasis on everyone being open to learning new things
 - `Amazon values individuals who are open and eager to learn`
+- Show your interviewer 
+    - your curiosity and passion for learning 
+    - by talking about things you have recently started learning
+    - professionally but also in your personal life
+- Think of times when you discovered something new and shared it with your team
+    - introducing a new way of doing things
 
 ## Hire and Develop the Best
 
