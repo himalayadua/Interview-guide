@@ -16,6 +16,7 @@
 14. Deliver Results
 
 (On Jul 1, 2021, Amazon introduced two new Leadership Principles)
+
 15. Strive to be Earth's Best Employer
 16. Success and Scale Bring Broad Responsibility
 
