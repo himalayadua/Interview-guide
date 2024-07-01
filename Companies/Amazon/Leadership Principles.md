@@ -15,3 +15,14 @@
 13. Have Backbone; Disagree and Commit
 14. Deliver Results
 
+## Customer Obsession
+key points:
+- start with the customer and work backwards
+- example:
+    - said that Jeff Bezos brings an empty chair into board meetings, 
+    - reserved for the customer, to remind the room who they should be thinking of above all else
+- spend some time thinking about your experiences with customers, both good and bad
+- What strategies have you used to attract customers, and then to make sure they remain satisfied? 
+- When did you fail to satisfy a customer's needs, and how did you correct the situation?
+
+> "Tell me about an occasion when you used customer input to enhance or innovate your organization."
