@@ -106,7 +106,15 @@ key points:
 
 ## Insist on the Highest Standards
 key points:
-- 
+- have relentlessly high standards 
+- many people may think these standards are unreasonably high
+- Showcase your high standards by talking 
+    - about the emphasis you put on detail in your work
+    - how you ensure that your end product is always top-notch
+- Give your interviewer examples of when you raised the bar to meet your customer's requirements
+- how your customer obsession helped you meet those goals
+
+> When did your high standards help push the organizations performance forward?
 
 > Tell me about a time when you had to work with a difficult customer or user.
 
@@ -124,13 +132,25 @@ key points:
 key points:
 - 
 
+> Give me an example of a calculated risk that you have taken where speed was critical.
+
+> Tell me about a time where you were the first one to take action on something.
+
 ## Frugality (Use Your Resources Wisely)
 key points:
 - 
 
+> Tell me about a time you pushed back on a deadline.
+
+> Give me an example of how you have helped save costs or eliminate waste within your role or organization.
+
 ## Earn Trust
 key points:
 - 
+
+> Tell me about a time when you had a disagreement with a colleague or manager.
+
+> Describe a time when you needed to influence a peer who had a differing opinion about a shared goal.
 
 ## Dive Deep
 key points:
