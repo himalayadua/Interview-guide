@@ -183,3 +183,5 @@ VO: Job roles you're expecting after your degree?
 
 - VO: Will you continue the internship if your university offers you?
     Me: I will do internship until the CPT period.
+
+> VO: I'm Approving your Visa learn more you in your University, study well.
