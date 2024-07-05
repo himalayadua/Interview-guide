@@ -155,4 +155,31 @@ VO: You don't have any loan?
 
 
 # After Masters
+VO: Any relatives Live in USA?
+    Me: yes, officer. I've an uncle in NY.
 
+- VO: What are your plans after Masters? 
+    VO: What do you want to do after masters ?
+    VO: What is your future plan?
+    VO: What’s is your career goal ?
+    
+    Me: After completing my Masters, i will come back to India and i will join my current company at a higher designation. 
+    Me: This masters program is essential for my career growth to a higher position in my current organization. With the skills I will learn, I will come back and join my current.. 
+    
+
+- **VO: Do you plan on working while you are studying in the US?**
+    Me: My first priority is to focus on my studies and work part-time on campus if I get an opportunity to do so. 
+    
+
+VO: Do you plan to work in USA after studying?
+    Me: No officer.
+
+VO: Job roles you're expecting after your degree?
+    Me: 
+
+- VO: What jobs will you get from this degree?
+    Me: Officer, I will use my OPT to gain some real world experience and then I will be back in India and apply for senior technical position in jobs related to fields of Artificial intelligence and Data Science in my home Country.
+    
+
+- VO: Will you continue the internship if your university offers you?
+    Me: I will do internship until the CPT period.
